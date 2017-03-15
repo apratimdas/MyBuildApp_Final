@@ -1,0 +1,11 @@
+c:\users\394504\documents\visual studio 2015\Projects\MyBuildApp\BatchFramework\bin\Debug\BatchFramework.dll.config
+c:\users\394504\documents\visual studio 2015\Projects\MyBuildApp\BatchFramework\bin\Debug\BatchFramework.dll
+c:\users\394504\documents\visual studio 2015\Projects\MyBuildApp\BatchFramework\bin\Debug\BatchFramework.pdb
+c:\users\394504\documents\visual studio 2015\Projects\MyBuildApp\BatchFramework\obj\Debug\BatchFramework.dll
+c:\users\394504\documents\visual studio 2015\Projects\MyBuildApp\BatchFramework\obj\Debug\BatchFramework.pdb
+C:\Users\394504\Desktop\MyBuildApp\BatchFramework\bin\Debug\BatchFramework.dll.config
+C:\Users\394504\Desktop\MyBuildApp\BatchFramework\bin\Debug\BatchFramework.dll
+C:\Users\394504\Desktop\MyBuildApp\BatchFramework\bin\Debug\BatchFramework.pdb
+C:\Users\394504\Desktop\MyBuildApp\BatchFramework\obj\Debug\BatchFramework.csprojResolveAssemblyReference.cache
+C:\Users\394504\Desktop\MyBuildApp\BatchFramework\obj\Debug\BatchFramework.dll
+C:\Users\394504\Desktop\MyBuildApp\BatchFramework\obj\Debug\BatchFramework.pdb

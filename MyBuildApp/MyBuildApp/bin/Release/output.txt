@@ -1,0 +1,22 @@
+
+Processing file or folder H:\threadSamples
+Press any key to start:
+************************************
+Building Project H:\threadSamples\asyncDirListing\asyncDirListing.vcxproj!!!
+before
+Building Project H:\threadSamples\asyncTasks\asyncTasks.vcxproj!!!
+before
+Building Project H:\threadSamples\myThread\myThread.vcxproj!!!
+before
+Building Project H:\threadSamples\ParallelAccumulate\ParallelAccumulate.vcxproj!!!
+before
+Building Project H:\threadSamples\PassingString\PassingString.vcxproj!!!
+before
+Building Project H:\threadSamples\promiseFuture\promiseFuture.vcxproj!!!
+before
+Building Project H:\threadSamples\wordCounting\wordCounting.vcxproj!!!
+before
+Build Complete
+************************************
+
+

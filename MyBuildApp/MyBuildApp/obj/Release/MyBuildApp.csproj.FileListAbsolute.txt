@@ -1,0 +1,16 @@
+c:\users\394504\documents\visual studio 2015\Projects\MyBuildApp\MyBuildApp\bin\Release\MyBuildApp.exe.config
+c:\users\394504\documents\visual studio 2015\Projects\MyBuildApp\MyBuildApp\bin\Release\MyBuildApp.exe
+c:\users\394504\documents\visual studio 2015\Projects\MyBuildApp\MyBuildApp\bin\Release\MyBuildApp.pdb
+c:\users\394504\documents\visual studio 2015\Projects\MyBuildApp\MyBuildApp\bin\Release\BatchFramework.dll
+c:\users\394504\documents\visual studio 2015\Projects\MyBuildApp\MyBuildApp\bin\Release\BatchFramework.pdb
+c:\users\394504\documents\visual studio 2015\Projects\MyBuildApp\MyBuildApp\obj\Release\MyBuildApp.csprojResolveAssemblyReference.cache
+c:\users\394504\documents\visual studio 2015\Projects\MyBuildApp\MyBuildApp\obj\Release\MyBuildApp.exe
+c:\users\394504\documents\visual studio 2015\Projects\MyBuildApp\MyBuildApp\obj\Release\MyBuildApp.pdb
+C:\Users\394504\Desktop\MyBuildApp\MyBuildApp\bin\Release\MyBuildApp.exe.config
+C:\Users\394504\Desktop\MyBuildApp\MyBuildApp\obj\Release\MyBuildApp.exe
+C:\Users\394504\Desktop\MyBuildApp\MyBuildApp\obj\Release\MyBuildApp.pdb
+C:\Users\394504\Desktop\MyBuildApp\MyBuildApp\bin\Release\MyBuildApp.exe
+C:\Users\394504\Desktop\MyBuildApp\MyBuildApp\bin\Release\MyBuildApp.pdb
+C:\Users\394504\Desktop\MyBuildApp\MyBuildApp\bin\Release\BatchFramework.dll
+C:\Users\394504\Desktop\MyBuildApp\MyBuildApp\bin\Release\BatchFramework.pdb
+C:\Users\394504\Desktop\MyBuildApp\MyBuildApp\obj\Release\MyBuildApp.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+c:\users\394504\documents\visual studio 2015\Projects\MyBuildApp\BatchFramework\bin\Release\BatchFramework.dll.config
+c:\users\394504\documents\visual studio 2015\Projects\MyBuildApp\BatchFramework\bin\Release\BatchFramework.dll
+c:\users\394504\documents\visual studio 2015\Projects\MyBuildApp\BatchFramework\bin\Release\BatchFramework.pdb
+c:\users\394504\documents\visual studio 2015\Projects\MyBuildApp\BatchFramework\obj\Release\BatchFramework.dll
+c:\users\394504\documents\visual studio 2015\Projects\MyBuildApp\BatchFramework\obj\Release\BatchFramework.pdb
+C:\Users\394504\Desktop\MyBuildApp\BatchFramework\bin\Release\BatchFramework.dll.config
+C:\Users\394504\Desktop\MyBuildApp\BatchFramework\bin\Release\BatchFramework.dll
+C:\Users\394504\Desktop\MyBuildApp\BatchFramework\bin\Release\BatchFramework.pdb
+C:\Users\394504\Desktop\MyBuildApp\BatchFramework\obj\Release\BatchFramework.dll
+C:\Users\394504\Desktop\MyBuildApp\BatchFramework\obj\Release\BatchFramework.pdb
